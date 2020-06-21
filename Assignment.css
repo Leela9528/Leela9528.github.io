@@ -1,0 +1,64 @@
+body
+{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+header
+{
+    margin-top: -30px;
+}
+nav
+{
+    font-weight: bold;
+    color: white;
+    border: 2px solid black;
+}
+.d-lg-none
+{
+    margin-top: 10px;
+    padding: 0;
+    width: 100%;
+    background-color: white;
+  
+}
+.container-fluid
+{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.br
+{
+    border-bottom: 2px solid black;
+}
+h1{
+    margin-top: 40px;
+    text-align: center;
+   
+}
+
+.row
+{ 
+    text-align: center ;
+}
+.cbs h3{
+    margin: 20px;
+    text-align: center;
+}
+.cbs
+{
+    margin-top: 90px;
+    padding: 20px;
+    text-align: start;
+    margin-left: 5%;
+    background: gray;
+    width:90%;
+    height: auto;
+    font-size: 20px;
+   
+}
+button:focus
+{
+    background: white;
+
+}
