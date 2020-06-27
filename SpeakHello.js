@@ -8,15 +8,14 @@
     // See Lecture 52, part 1
     // var helloSpeaker =
     
-    var helloSpeaker={};
-      helloSpeaker.name=["Paul", "Frank", "Larry", "Paula", "Laura", "Yakoov"];
     // DO NOT attach the speakWord variable to the 'helloSpeaker' object.
     var speakWord = "Hello";
     
-    function speak(name) {
+    var helloSpeaker=function (name) {
     // See Lecture 52, part 2
     // (Note, Step 6 will be done in the SpeakGoodBye.js file.)
     // xxxx.xxxx = helloSpeaker;
+        console.log(speakWord + " " +name);
     }
     window.helloSpeaker=helloSpeaker;
 })(window);
