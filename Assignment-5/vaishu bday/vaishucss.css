@@ -1,0 +1,108 @@
+body {
+    text-align: center;
+    background-color: #283149;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+  
+  footer {
+    color: #DBEDF3;
+    font-family: sans-serif;
+  }
+  
+  .a4h4 {
+  background:url('4h4img.jpeg') no-repeat;
+  background-size: cover;
+  }
+  
+  .a4g3 {
+    background:url('4g3img.jpeg') ;
+    background-size: cover;
+  }
+  
+  .a4h5 {
+    background:url('4h5img.jpeg') ;
+    background-size: cover;
+  }
+  
+  .a4g4 {
+    background:url('4g4img.jpeg') ;
+    background-size: cover;
+  }
+  
+  .a4e8 {
+    background:url('4e8img.jpeg') ;
+    background-size: cover;
+  }
+  
+  .a428 {
+    background:url('4281img.jpeg') ;
+    background-size: cover;
+
+  }
+  
+  .a4e0 {
+    background:url('4e0img.jpeg') ;
+    background-size: cover;
+  }
+  .a4g9 {
+    background:url('4g9img.jpeg') ;
+    background-size: cover;
+  }
+  .a4e7 {
+    background:url('4e7img.jpeg') ;
+    background-size: cover;
+  }
+  .a4c3 {
+    background:url('4c3img.jpeg') ;
+    background-size: cover;
+  }
+  .a4f5 {
+    background:url('4f5img.jpeg') ;
+    background-size: cover;
+  }
+  .set {
+    margin: 10% auto;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.2;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+   opacity: 0.8;
+  }
+  
+  .red {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    color: red;
+  }
+  button:hover{
+    box-shadow: 15px 15px 20px black;
+  }
+  .drum {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 3rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 800;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: right;
+    margin: 40px;
+    background-color: white;
+  }
+  
